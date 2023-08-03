@@ -8,6 +8,15 @@ Obsidian GitHub Issues is a plugin for the Obsidian note-taking app that enables
 - **Bidirectional Sync:** Changes made to embedded issues in Obsidian are automatically synchronized with the corresponding GitHub issues, ensuring seamless collaboration between your Obsidian notes and GitHub repositories.
 - **Rich Preview:** View a comprehensive preview of the embedded issues, including their status, comments, assignees, labels, and other relevant details. This feature helps you quickly gain context and stay informed about the progress of your issues.
 
+## Usage
+To embed a list of all issues from a GitHub repo within a note create a code block with the owner and repo name:
+
+<code>
+  ```
+  Frostplexx/obsidian-github-issues
+  ```
+</code>
+
 ## Installation
 
 ### Prerequisites
